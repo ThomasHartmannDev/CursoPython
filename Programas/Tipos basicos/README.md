@@ -13,7 +13,7 @@ Neste exemplo possui varios prints mostrando a saida de cada tipo.
 - 2.2
 - Texto dentro de aspas simples
 - Texto dentro de aspas duplas
-- você émuitomuitomuitolegal
+- você é muito muito muito legal
 - [1, 2, 3]
 - {'nome': 'Thomas', 'Idade': 17}
 - {'Nome': 'Thomas', 'Idade': 17}
