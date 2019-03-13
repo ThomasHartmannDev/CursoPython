@@ -9,18 +9,7 @@ print(None)
 print(1 + 2) #Valor inteiro
 
 print(1.2 + 1) # Valor Float
-'''
-Tipo operacionais
-• 2+2
-• 5-3
-• 2*3
-• 10/3
-• 10//3
-• 3**2
-• 10%3
-• None
 
-'''
 
 
 #Tipos de escrita. 
