@@ -1,4 +1,4 @@
-#Tipos basicos de estrutura de dados.
+# Tipos basicos de estrutura de dados.
 
 Neste exemplo possui varios prints mostrando a saida de cada tipo. 
 --- 
