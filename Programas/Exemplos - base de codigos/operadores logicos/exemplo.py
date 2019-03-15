@@ -51,7 +51,8 @@ print(not 0)
 print(not 1)
 print("=_=_=_=_=_=_=_=_=_=_=_=_=_=_=")
 ''' 
-Observação: 0 significa True, e qualquer outro numero diferente de 0 significa True
+Observação: 0 significa True, e qualquer outro numero diferente de 0 significa False
+
 ''' 
 
 print("aplicação basica :")
