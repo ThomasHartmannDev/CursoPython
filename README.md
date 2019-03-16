@@ -5,3 +5,6 @@ Estou fazendo os curso de python da Udemy e junto ao curso vou anexar todos os c
 
 Agradecimentos ao curso de python3 da CODER.
 
+OBS: Quais quer erros grotescos de português seja acentuação como escrita releve isto è um repositorio feito para mim e estou deixando de maneira publica para outros terem acesso.
+Agradeço a compreenção 
+

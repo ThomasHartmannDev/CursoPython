@@ -9,4 +9,8 @@
 - Pasta Desafios
     - Desafios proposto nas aulas. 
 
+- Observações:
+    - Execute sempre os arquivos de exemplos para serem impressos no console para melhor entendimento.
+    
+
 
