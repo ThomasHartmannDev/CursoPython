@@ -1,7 +1,9 @@
 from decimal import Decimal, getcontext
-Pi = 3.14 
-Raio = 5
+import math
 
+Pi = math.pi
+Raio = 5
+print(Pi)
 getcontext().prec = 4
 circunferencia = 2 * Decimal(Pi) * Decimal(Raio)
 Area_circunferencia = Decimal(Pi) * Decimal(Raio) **2

@@ -7,7 +7,10 @@
     - citações
 ---
 - Pasta Desafios
-    - Desafios proposto nas aulas. 
+    - Desafios proposto nas aulas.
+     
+- Pasta Fundamentos_projeto
+    - Projeto circunferencia
 
 - Observações:
     - Execute sempre os arquivos de exemplos para serem impressos no console para melhor entendimento.
