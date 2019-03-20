@@ -2,6 +2,9 @@ from decimal import Decimal, getcontext
 import math
 
 Pi = math.pi
+'''
+Adicionada a biblioteca MATH para obter um valor mais exato de pi
+'''
 Raio = 5
 print(Pi)
 getcontext().prec = 4
