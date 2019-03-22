@@ -2,15 +2,15 @@
 
 ## Nesta pasta terá todos os programas divididos em pastas
 ---
-- Pasta exemplos
+- Pasta Fundamentos
     - Exemplos feitos na aula
     - citações
----
+
 - Pasta Desafios
     - Desafios proposto nas aulas.
      
-- Pasta Fundamentos_projeto
-    - Projeto circunferencia
+- Pasta Projetos
+    - Projeto_circunferencia
 
 - Observações:
     - Execute sempre os arquivos de exemplos para serem impressos no console para melhor entendimento.
