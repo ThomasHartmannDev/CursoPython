@@ -1,6 +1,5 @@
-# Desafio - 2
+# If, else, elif 
 
-## oque consiste o desafio ? 
 --- 
 Uma nota será passada ea função deve retornar uma letra. 
 
