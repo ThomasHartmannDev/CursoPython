@@ -19,6 +19,3 @@ if __name__ == "__main__":
             print(f'{dia} : {get_dia_da_semana(dia)}')
         else:
             print(f'{dia} : {get_dia_da_semana(dia)}, è um dia durante a semana')
-
-
-
