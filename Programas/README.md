@@ -10,7 +10,8 @@
     - Desafios proposto nas aulas.
      
 - Pasta Projetos
-    - Projeto_circunferencia
+    - 1 - Projeto_circunferencia
+    - 2 - Projeto_estruturas_controles
 
 - Observações:
     - Execute sempre os arquivos de exemplos para serem impressos no console para melhor entendimento.
