@@ -19,3 +19,4 @@ for registro in dados.splitlines(): #Faremos um for e usando splitlines() dividi
     print('Nome: {} ,Idade: {}'.format(*registro.split(','))) #usando Split(',') Fazemos a divisão pela virgula.
     
 
+# Veja a proxima versão
