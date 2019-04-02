@@ -2,7 +2,7 @@
 Neste arquivo veremos um metodo diferente de leitura.
 
 '''
-arquivo = open('Programas/2 - Manipulação de arquivos/pessoas.csv',encoding="utf-8")
+arquivo = open('Programas/2 - Manipulação de arquivos/1 - Leitura e escrita/pessoas.csv',encoding="utf-8")
 for registro in arquivo: # pegando direto do arquivo as informações sem salvar em uma variavel
     print('Nome: {} ,Idade: {}'.format(*registro.split(',')))
 '''

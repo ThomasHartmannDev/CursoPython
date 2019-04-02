@@ -3,7 +3,7 @@ Neste Arquivos vamos fazer a leitura do pessoas.csv
 '''
 
 
-arquivo = open('Programas/2 - Manipulação de arquivos/pessoas.csv',encoding="utf-8") #Estamos abrindo o arquivo pessoas.csv
+arquivo = open('Programas/2 - Manipulação de arquivos/1 - Leitura e escrita/pessoas.csv',encoding="utf-8") #Estamos abrindo o arquivo pessoas.csv
 '''
 Vale lembrar que dentro dos () do open deve se passar o caminho do arquivo,
 como o arquivo pessoas.csv esta na mesma pasta apenas colocamos pessoas.csv
