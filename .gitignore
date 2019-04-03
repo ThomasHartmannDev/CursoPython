@@ -94,6 +94,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Flask/
 
 # Spyder project settings
 .spyderproject
@@ -115,3 +116,5 @@ dmypy.json
 
 #.vscode 
 .vscode
+# .bat
+.bat
