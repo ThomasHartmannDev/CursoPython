@@ -16,3 +16,4 @@ for i in range(10):
         dobros_dos_pares.append(i * 2)
 
 print('Resultado da forma normal', dobros_dos_pares)
+
